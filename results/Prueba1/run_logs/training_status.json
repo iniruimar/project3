@@ -1,0 +1,29 @@
+{
+    "AvoidRocks": {
+        "checkpoints": [
+            {
+                "steps": 44090,
+                "file_path": "results\\Prueba1\\AvoidRocks\\AvoidRocks-44090.onnx",
+                "reward": -1.0,
+                "creation_time": 1683372350.4319642,
+                "auxillary_file_paths": [
+                    "results\\Prueba1\\AvoidRocks\\AvoidRocks-44090.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 44090,
+            "file_path": "results\\Prueba1\\AvoidRocks.onnx",
+            "reward": -1.0,
+            "creation_time": 1683372350.4319642,
+            "auxillary_file_paths": [
+                "results\\Prueba1\\AvoidRocks\\AvoidRocks-44090.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.26.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
